@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历项目面试官"
+  short_description: "基于简历深挖后端、Agent 与 AI 应用开发项目"
+  default_prompt: "请读取我提供的简历，只围绕项目经历进行模拟面试。"
